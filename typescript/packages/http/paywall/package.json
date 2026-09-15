@@ -39,7 +39,7 @@
     "@x402/evm": "workspace:~",
     "@x402/svm": "workspace:~",
     "buffer": "^6.0.3",
-    "esbuild": "^0.27.2",
+    "esbuild": "^0.28.2",
     "eslint": "^9.24.0",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-jsdoc": "^50.6.9",
@@ -50,9 +50,9 @@
     "tsup": "^8.4.0",
     "tsx": "^4.21.0",
     "typescript": "^5.7.3",
-    "vite": "^6.2.6",
+    "vite": "^8.3.0",
     "vite-tsconfig-paths": "^5.1.4",
-    "vitest": "^3.0.5"
+    "vitest": "^5.0.0"
   },
   "dependencies": {
     "@txnlab/use-wallet": "^4.3.1",
